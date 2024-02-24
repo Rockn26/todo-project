@@ -1,0 +1,25 @@
+.main-item {
+    display: flex;
+    justify-content: start;
+    gap: 5px;
+    border: 1px solid #000;
+    width: 200px;
+    height: 20px;
+}
+
+.item-button {
+    width: 20px;
+    height: 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 50px;
+    background-color: grey;
+}
+
+.green-button {
+    background-color: green;
+}
+
+.grey-button {
+    background-color: grey;
+}
